@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![smatsson readme stats](https://github-readme-stats.vercel.app/api?username=smatsson&show_icons=true)
+
+![smatsson language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=smatsson&layout=compact)
+
+LinkedIn: https://www.linkedin.com/in/stefan-matsson/
+
+Twitter: https://twitter.com/DevLifeOfStefan
+
 <!--
 **smatsson/smatsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
